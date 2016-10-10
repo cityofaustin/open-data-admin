@@ -10,7 +10,7 @@ Open data projects have many flavors... they vary widely when it comes to scope 
 ## Projects about managing the Open Data Initiative itself
 
 **Now:**  
-[Open Data Sprints](https://github.com/cityofaustin/open-data-sprints) 
+[Open Data Sprints](https://github.com/cityofaustin/open-data-sprints)  
 [Draft the Open Data Initiative Charter](https://github.com/cityofaustin/open-data-admin/projects/3)   
 **Next:**  
   

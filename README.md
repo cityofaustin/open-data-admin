@@ -11,9 +11,9 @@ Open data projects have many flavors... they vary widely when it comes to scope 
 
 **Now:**  
 [Open Data Sprints](https://github.com/cityofaustin/open-data-sprints) 
-- [Draft the Open Data Initiative Charter](https://github.com/cityofaustin/open-data-admin/projects/3)   
+[Draft the Open Data Initiative Charter](https://github.com/cityofaustin/open-data-admin/projects/3)   
 **Next:**  
-
+  
 **Later:**  
 [Plan projects for Sprint 2.3](https://github.com/cityofaustin/open-data-admin/projects/4)  
 Develop ODI success criteria/performance metrics  
